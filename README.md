@@ -1,7 +1,6 @@
 # 2021 北區聯合黑客松<br>第一組企劃書 —— 早安，購物嗎owo?
 
 
-[toc]
 
 ## Authors
 - 劉承軒 [shaneliu1010@gmail.com](mailto:shaneliu1010@gmail.com)
