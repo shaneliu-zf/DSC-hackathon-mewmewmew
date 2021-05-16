@@ -38,12 +38,12 @@
 - [Github連結](https://github.com/shane-liu-1010/DSC-hackathon-mewmewmew)
 
 - 樂高機器人正面
-<img src="https://i.imgur.com/xSpdovP.jpg" width=60%>
+<img src="img/EV3_front.png" width=60%>
 
 - 樂高機器人側面
-<img src="https://i.imgur.com/9hW4YKz.jpg" width=60%>
+<img src="img/EV3_side.png" width=60%>
 - 樂高機器人程式碼
-<img src="https://imgur.com/K9wyrj8.jpg" width=60%>
+<img src="img/EV3_code.png" width=60%>
 
 ## Concepts
 ### Brainstorming
