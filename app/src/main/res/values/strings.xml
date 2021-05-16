@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">早安，購物嗎owo?</string>
+    <string name="left">left</string>
+    <string name="next_store">Next store</string>
+    <string name="last_store">Last Store</string>
+    <string name="right">right</string>
+    <string name="view">view</string>
+    <string name="product_picture">商品圖片</string>
+</resources>

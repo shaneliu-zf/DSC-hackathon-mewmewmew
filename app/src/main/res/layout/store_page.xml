@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="25sp"
+        android:layout_marginTop="15dp"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:contentDescription="@string/product_picture"
+        android:src="@drawable/store1_exam1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/left_button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/left"
+            android:layout_weight="1"
+            android:onClick="leftClick"
+            android:layout_margin="5dp"/>
+
+        <Button
+            android:id="@+id/view_button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/view"
+            android:layout_weight="3"
+            android:onClick="viewClick"
+            android:layout_margin="5dp"
+            />
+
+        <Button
+            android:id="@+id/right_button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/right"
+            android:layout_weight="1"
+            android:onClick="rightClick"
+            android:layout_margin="5dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/laststore"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:onClick="lastStore"
+            android:text="@string/last_store"
+            android:layout_margin="5dp"/>
+
+        <Button
+            android:id="@+id/nextstore"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:onClick="nextStore"
+            android:text="@string/next_store"
+            android:layout_margin="5dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
