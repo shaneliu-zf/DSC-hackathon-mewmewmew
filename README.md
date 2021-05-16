@@ -37,11 +37,18 @@
 ## Miscellaneous
 - [Github連結](https://github.com/shane-liu-1010/DSC-hackathon-mewmewmew)
 
+- 程式截圖——商品敘述
+<img src="img/screenshot1.png" width=60%>
+
+- 程式截圖——商品瀏覽
+<img src="img/screenshot2.png" width=60%>
+
 - 樂高機器人正面
 <img src="img/EV3_front.png" width=60%>
 
 - 樂高機器人側面
 <img src="img/EV3_side.png" width=60%>
+
 - 樂高機器人程式碼
 <img src="img/EV3_code.png" width=60%>
 
