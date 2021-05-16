@@ -42,6 +42,8 @@
 
 - 樂高機器人側面
 <img src="https://i.imgur.com/9hW4YKz.jpg" width=60%>
+- 樂高機器人程式碼
+<img src="https://imgur.com/K9wyrj8.jpg" width=60%>
 
 ## Concepts
 ### Brainstorming
